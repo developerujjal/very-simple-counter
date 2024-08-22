@@ -1,0 +1,23 @@
+.container {
+    width: 30%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.container h2 {
+    font-size: 3rem;
+    margin: 0px 0px 10px 0px;
+}
+
+.container button {
+    padding: 2px 20px;
+    font-size: 2rem;
+}
+
+#increase-btn{
+    margin-right: 8px;
+}
+
+.main-section h1{
+    text-align: center;
+}
